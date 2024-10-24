@@ -11,7 +11,7 @@
     "dependencies": {
         "flex.css": "^1.1.6",
         "nprogress": "^0.2.0",
-        "vue": "2.3.0",
+        "vue": "3.0.0",
         "vue-router": "^2.0.3",
         "vuex": "^2.0.0-rc.6",
         "vue-resource": "^1.0.3",
